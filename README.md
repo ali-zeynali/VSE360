@@ -23,8 +23,8 @@ This repository is implemented under [BOLA360](https://arxiv.org/pdf/2309.04023.
 BOLA360 is a near optimal ABR algorithm for 360-degree video streaming. Implementation of BOLA360 and two of its heuristic improved versions is alsow provided in this environment.
 
 <p align="center">
-<img src="figures/git/birate1.png" width="350">
-<img src="figures/git/birate2.png" width="350">
+<img src="figures/git/bitrate1.png" width="350">
+<img src="figures/git/bitrate2.png" width="350">
 </p>
 
 
