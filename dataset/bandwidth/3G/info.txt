@@ -1,0 +1,17 @@
+Link:
+https://datasets.simula.no/hsdpa-tcp-logs/
+
+
+Format:
+The logs have the following format:
+1289406399 549692 59.851754 10.781778 248069 1008
+1289406400 550772 59.851864 10.781833 191698 1080
+1289406401 551773 59.851964 10.781901 280579 1001
+1289406402 552893 59.85206  10.781969 248971 1120
+Here, the different columns have the following meaning:
+Unix timestamps (number of seconds since 1970-01-01) are given by column 1.
+A monotonically increasing timestamp in milliseconds since some unspecified startingpoint is given by column 2
+GPS positions are given by column 3 and 4. The latitude in decimal degrees is given by column 3 and the longitude in decimal degrees is given by column 4.
+Column 5 contains the number of bytes received since the previous measurement (the above line).
+Column 6 contains the number of milliseconds elapsed since the previous measurement (the above line). This is actualy the difference between the values in column 2 for this and the previous line.
+This means that for example to get kilobytes per second for a specific sample, divide column 5 by column 6.
