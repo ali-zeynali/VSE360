@@ -11,7 +11,9 @@ Features
 ## Tiled 360-degree video Streaming
 The 360-degree videos are stored in servers and delivered to the users in an online fashion. The video delivery approach is to divide the entire 360-degree video into same duration chunks of length. Then, each chunk is spatially split into a set of tiles to fully cover the viewing sphere of the user. Each tile is encoded in multiple bitrates (i.e., resolutions). Video tiles are streamed ahead of time and buffered at the client before they can be rendered to the user. As the user changes their viewport, say by moving their head, the appropriate tiles within the user's  FOV  is extracted from the client's buffer and rendered on the user's display.
 
-<img src="figures/git/360_degree_FOV.jpg" width="200">
+<p align="center">
+<img src="figures/git/360_degree_FOV.jpg" width="500">
+</p>
 ## Algorithms
 We have implemented SOTA algorithm in this environment for your evaluations. You don't need to that again :)
 The implemented algorithms include:
