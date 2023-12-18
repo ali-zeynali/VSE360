@@ -78,6 +78,7 @@ If you use this environment for academic research or in an academic paper, we ki
 [Zeynali et al., "BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming,"][[Arxiv]](https://arxiv.org/pdf/2309.04023.pdf)
 
 We appreciate your acknowledgment and support in citing our work.
+
 ##License
 This project is licensed under the [Creative Commons Attribution-NonCommercial X.X International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
