@@ -18,6 +18,16 @@ The 360-degree videos are stored in servers and delivered to the users in an onl
 <img src="figures/git/360_degree_FOV.jpg" width="500">
 </p>
 
+## BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming 
+This repository is implemented under [BOLA360](https://arxiv.org/pdf/2309.04023.pdf) project.
+BOLA360 is a near optimal ABR algorithm for 360-degree video streaming. Implementation of BOLA360 and two of its heuristic improved versions is alsow provided in this environment.
+
+<p align="center">
+<img src="figures/git/birate1.png" width="350">
+<img src="figures/git/birate2.png" width="350">
+</p>
+
+
 ## Algorithms
 We have implemented SOTA algorithm in this environment for your evaluations. You don't need to that again :)
 The implemented algorithms include:
@@ -56,14 +66,11 @@ The dataset used for this simulation includes:
 - Bandwidth: [4G/LTE Bandwidth dataset](https://users.ugent.be/~jvdrhoof/dataset-4g/).
 - HeadTraces: Chenglei Wu et al. 2017. A dataset for exploring user behaviors in vr spherical video streaming. MMSys 2017.
 
-## Publication
-This repository is implemented under [BOLA360](https://arxiv.org/pdf/2309.04023.pdf) project.
-
 ## Academic Use
 
 If you use this environment for academic research or in an academic paper, we kindly request that you cite our original paper on [BOLA360](https://arxiv.org/pdf/2309.04023.pdf):
 
-[Zeynali et al., "BOLA360:Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming,"][[Arxiv]](https://arxiv.org/pdf/2309.04023.pdf)
+[Zeynali et al., "BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming,"][[Arxiv]](https://arxiv.org/pdf/2309.04023.pdf)
 
 We appreciate your acknowledgment and support in citing our work.
 ##License
