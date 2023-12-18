@@ -79,7 +79,7 @@ If you use this environment for academic research or in an academic paper, we ki
 
 We appreciate your acknowledgment and support in citing our work.
 
-##License
+## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial X.X International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
