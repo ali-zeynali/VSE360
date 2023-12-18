@@ -29,7 +29,7 @@ BOLA360 is a near optimal ABR algorithm for 360-degree video streaming. Implemen
 
 <p align="center">
 <img src="figures/git/buff1.png" width="350">
-<img src="figures/git/bandwidth1.png" width="350">
+<img src="figures/git/bandwidth1.png" width="350" >
 </p>
 
 
